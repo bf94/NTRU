@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) 
 	{
-		
+		//k
 		//NTRUEncrypt A = new NTRUEncrypt();
 		//NTRUDecrypt B = new NTRUDecrypt();
 		
